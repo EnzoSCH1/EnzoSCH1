@@ -12,7 +12,6 @@
     <a href="https://www.linkedin.com/in/enzo-schneider-b68740204/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    
     <br>
     <a href="https://mynickname.com/id1845709"><img src="https://mynickname.com/img.php?nick=EnzoSCH&sert=2&text=t9" alt="EnzoSCH nickname" /></a>
 </div>

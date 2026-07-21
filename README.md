@@ -29,27 +29,26 @@ Currently, I am engaged in the development of open-source projects and periodica
 At the moment, I am studying Rust to develop high-performance applications, as well as machine learning and neural networks.
 
 ```javascript
-const DIMFLIX = {
-    OS: ["Arch Linux"],
+const EnzoSCH1 = {
+    OS: ["Linux"],
     languages: {
         highLevel: ["Python", "SQL"],
         averageLevel: ["JavaScript"],
         baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
     },
     programming: {
-        backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
-        frontend: ["HTML", "CSS/SCSS", "VueJS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        machine-learning: ["vaex", "pandas", "opencv", "scikit-learn"],
-        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
+        backend: ["Node.js","Express.js","JWT","bcrypt.js","REST API"],
+        frontend: ["HTML5", "CSS3", "VueJS","JavaScript","Bootstrap","React","Next.js"],
+        databases: ["phpMyAdmin", "MongoDB", "SQLite", "MySQL"],
+        machine-learning: ["pandas", "opencv"],
+        IA: [ "OpenAI API","LangChain","Ollama","Hugging Face","TensorFlow","PyTorch","Transformers"],
+        devOps: ["Docker", "Nginx", "Postman","git","Debian","Apache"],
         GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
+            Desktop: ["PyQT6", "Pyside6"],
+            Mobile: ["Flutter", "AndroidJS"]
         }
     },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+    UI_UX: ["Photoshop", "AdobePro", "Figma"],
 };
 ```
 

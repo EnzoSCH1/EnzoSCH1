@@ -19,10 +19,6 @@
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
 
-<div align="center">
-    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
-</div>
-
 ## 👻 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 

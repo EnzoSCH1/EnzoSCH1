@@ -98,6 +98,17 @@ const EnzoSCH1 = {
     </div>
 </details>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly)](https://git.io/streak-stats)
-
-![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly"
+      height="180"
+      alt="GitHub Streak"
+    />
+  </a>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>

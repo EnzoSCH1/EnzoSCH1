@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+    <img width=300 src="./assets/main1.gif"/>    
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+EnzoSCH!" alt="Typing SVG" /></a>
@@ -75,4 +75,4 @@ const DIMFLIX = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
-[!Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact)>
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact)

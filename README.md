@@ -20,11 +20,8 @@
     <a href="./README-FR.md"><img src="https://img.shields.io/badge/README-FR-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Awanthiy&&style=flat-square)  
-  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=EnzoSCH1&&style=center)  
 <br/> 
 
 ## 👻 A little about me... 

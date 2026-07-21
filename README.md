@@ -72,24 +72,6 @@ const DIMFLIX = {
         <img src="./assets/diploms/.png" width=200 alt=""/>
     </div>
 </details>
----
-<details close>
-<summary><a name="certificates"><a/><h2>🗂 Ordinary Certificates</h2></summary>
-    <div align="center">
-        <img src="./assets/certificates/atomic-hack-3.0.jpg" width=200 alt="Atomic Hack 3.0 Hackaton"/>
-        <img src="./assets/certificates/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
-        <img src="./assets/certificates/цифровизация-во-благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
-        <img src="./assets/certificates/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>
-        <img src="./assets/certificates/Comparison-ResumeVacancy.png" width=200 alt="Comparison ResumeVacancy"/>
-        <img src="./assets/certificates/траектория-будущего-python.png" width=200 alt="траектория будущего python"/>
-        <img src="./assets/certificates/траектория-будущего-мобильная-разработка.png" width=200 alt="траектория будущего мобильная разработка"/>
-        <img src="./assets/certificates/траектория-будущего-devops.png" width=200 alt="траектория будущего devops"/>
-        <img src="./assets/certificates/траектория-будущего-нейросетевое-искусство.png" width=200 alt="траектория будущего нейросетевое искусство"/>
-        <img src="./assets/certificates/траектория-будущего-кибербезопасность.png" width=200 alt="траектория будущего кибербезопасность"/>
-        <img src="./assets/certificates/траектория-будущего-графический-дизайн.png" width=200 alt="траектория будущего графический дизайн"/>
-        <img src="./assets/certificates/траектория-будущего-финансовая-грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
-    </div>
-</details>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 

@@ -13,13 +13,14 @@
     </a>
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
     <br>
-    <a href="https://mynickname.com/id1845709"><img src="https://mynickname.com/img.php?nick=EnzoSCH&sert=2&text=t7" alt="EnzoSCH nickname" /></a>
+    <a href="https://mynickname.com/id1845709"><img src="https://mynickname.com/img.php?nick=EnzoSCH&sert=2&text=t9" alt="EnzoSCH nickname" /></a>
 </div>
 
 <div align="center" justify-content="space-between">
     <a href="./README-FR.md"><img src="https://img.shields.io/badge/README-FR-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 ## 👻 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoSCH1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)

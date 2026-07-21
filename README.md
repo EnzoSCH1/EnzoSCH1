@@ -7,8 +7,7 @@
 
 <div align="center">
     <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
-    <a href="https://www.instagram.com/hussain.web/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2366F1C2.svg?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
-    <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-66f1c2?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="https://www.instagram.com/*/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2366F1C2.svg?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
     <a href="mailto:enzo.schneider318@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/enzo-schneider-b68740204/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%23B3EBF2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"style="margin-bottom: 5px;"/></a>

@@ -107,5 +107,5 @@ const EnzoSCH1 = {
 </p>
 <br/>  
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&theme=dracula&layout=compact" alt="Most Used Languages" />
 </p>

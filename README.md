@@ -11,7 +11,7 @@
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
     <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/enzo-schneider-b68740204/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"style="margin-bottom: 5px;"/></a>
+  <img src="https://img.shields.io/badge/linkedin-%23B3EBF2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"style="margin-bottom: 5px;"/></a>
     <br>
     <a href="https://mynickname.com/id1845709"><img src="https://mynickname.com/img.php?nick=EnzoSCH&sert=2&text=t9" alt="EnzoSCH nickname" /></a>
 </div>

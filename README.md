@@ -26,14 +26,11 @@
 ## 👻 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+I am a student in **DevOps and Cybersecurity** with a particular predilection for creativity and innovation. My actions are always aimed at achieving high results and accomplishing quality tasks. In life, I am guided by personal development; I never stand still.
 
-[**Multiple times became the winner of international competitions**](#diplomas). 
-I am included in the **state register of persons with outstanding abilities**.
+Currently, I am engaged in the development of open-source projects and periodically execute orders. I specialize in creating websites, apps, bots and AI.
 
-Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and neural networks.
-
-At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
+At the moment, I am studying Rust to develop high-performance applications, as well as machine learning and neural networks.
 
 ```javascript
 const DIMFLIX = {

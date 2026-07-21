@@ -13,7 +13,7 @@
     </a>
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
     <br>
-    <a href="https://mynickname.com/id1843842"><img src="[url=https://mynickname.com/id1845709]" alt="Nickname dimflix registred!" /></a>
+    <a href="https://mynickname.com/id1843842"><img src="[url=https://mynickname.com/id1845709][img]https://mynickname.com/forumt7/EnzoSCH.gif[/img][/url]" alt="Nickname dimflix registred!" /></a>
 </div>
 
 <div align="center" justify-content="space-between">

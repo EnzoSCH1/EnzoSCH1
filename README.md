@@ -96,6 +96,4 @@ const DIMFLIX = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
-[!Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact)><br>
-	</div>
-
+[!Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact)>

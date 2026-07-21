@@ -2,7 +2,7 @@
     <img width=300 src="./assets/main1.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+EnzoSCH!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=90D5FF&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+EnzoSCH!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </p>
 <br/> 
 
-## 👻 A little about me... 
+## 🐟 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoSCH1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I am a student in **DevOps and Cybersecurity** with a particular predilection for creativity and innovation. My actions are always aimed at achieving high results and accomplishing quality tasks. In life, I am guided by personal development; I never stand still.

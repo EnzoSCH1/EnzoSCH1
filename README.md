@@ -93,12 +93,9 @@ const DIMFLIX = {
         <img src="./assets/certificates/траектория-будущего-финансовая-грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
     </div>
 </details>
----
-<details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-	<div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoSCH1&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
 [!Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EnzoSCH1&layout=compact)><br>
 	</div>
-</details>
+

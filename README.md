@@ -27,7 +27,7 @@
 </p>
 <br/> 
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1be3c09a-cb85-4bd7-97c9-b530a0727566" /> A little about me... 
+🐟 A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoSCH1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I am a student in **DevOps and Cybersecurity** with a particular predilection for creativity and innovation. My actions are always aimed at achieving high results and accomplishing quality tasks. In life, I am guided by personal development; I never stand still.

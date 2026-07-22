@@ -94,7 +94,7 @@ const EnzoSCH1 = {
 <br/>  
 
 <details open>
-<summary><a name="diplomas"><a/><h2>🎓 Places de prix et diplômes</h2></summary>
+<summary><a name="diplomas"><a/><h2>🎓 Certificats et diplômes</h2></summary>
     <div align="center">
         <img src="./assets/diploms/.png" width=200 alt=""/>
     </div>

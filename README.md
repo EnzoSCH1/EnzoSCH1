@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <a href="https://www.tiktok.com/@ton_handle" target="_blank"><img src="https://img.shields.io/badge/TikTok-%2300FFEF.svg?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok"/></a>
+    <a href="https://www.tiktok.com/@e2zsch" target="_blank"><img src="https://img.shields.io/badge/TikTok-%2300FFEF.svg?style=for-the-badge&logo=tiktok&logoColor=black" alt="TikTok"/></a>
     <a href="https://www.instagram.com/*/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2366F1C2.svg?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
     <a href="mailto:enzo.schneider318@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/enzo-schneider-b68740204/" target="_blank">

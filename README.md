@@ -16,7 +16,7 @@
 </div>
 
 <div align="center" justify-content="space-between">
-    <a href="./README-FR.md"><img src="https://img.shields.io/badge/README-FR-blue?color=eba0ac&labelColor=FFF700&style=for-the-badge"></a>
+    <a href="./README-FR.md"><img src="https://img.shields.io/badge/README-FR-blue?color=FFF700&labelColor=1C2325&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
 <p align="center">

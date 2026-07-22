@@ -27,7 +27,7 @@
 </p>
 <br/> 
 
-## 🐟 A little about me... 
+## <img src="https://emojis.slackmojis.com/emojis/images/1643517250/32887/fish.gif?1643517250" width="30"/> A little about me... 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoSCH1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I am a student in **DevOps and Cybersecurity** with a particular predilection for creativity and innovation. My actions are always aimed at achieving high results and accomplishing quality tasks. In life, I am guided by personal development; I never stand still.
